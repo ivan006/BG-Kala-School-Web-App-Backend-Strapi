@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * thing controller
+ * food controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::thing.thing');
+module.exports = createCoreController('api::food.food');

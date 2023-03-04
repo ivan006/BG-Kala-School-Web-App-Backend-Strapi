@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * thing service
+ * food service
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::thing.thing');
+module.exports = createCoreService('api::food.food');
