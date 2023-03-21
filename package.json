@@ -12,7 +12,6 @@
     "build:win": "cross-env NODE_ENV=production npm run build",
     "start:win": "cross-env NODE_ENV=production npm start",
     "npm cache clean --force": "npm cache clean --force",
-    "npm i": "npm i"
   },
   "dependencies": {
     "@strapi/plugin-i18n": "4.7.1",
