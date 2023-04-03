@@ -21,17 +21,6 @@
     "lng": {
       "type": "string"
     },
-    "Image": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos",
-        "audios"
-      ]
-    },
     "Description": {
       "type": "richtext"
     }
