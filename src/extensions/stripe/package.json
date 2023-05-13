@@ -1,0 +1,15 @@
+{
+  "name": "stripe",
+  "version": "1.0.0",
+  "description": "Stripe extension for Strapi",
+  "main": "index.js",
+  "author": "Your Name",
+  "strapi": {
+    "plugin": {
+      "settings": null
+    }
+  },
+  "dependencies": {
+    "stripe": "your_stripe_version"
+  }
+}
