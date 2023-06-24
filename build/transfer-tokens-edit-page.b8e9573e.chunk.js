@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbg_kala_school_web_app_backend=self.webpackChunkbg_kala_school_web_app_backend||[]).push([[2492],{9452:(l,_,e)=>{e.r(_),e.d(_,{default:()=>E});var s=e(67294),n=e(95489),r=e.n(n),t=e(87751),a=e(53219);const E=()=>s.createElement(n.CheckPagePermissions,{permissions:t.Z.settings["transfer-tokens"].read},s.createElement(a.Z,null))}}]);
